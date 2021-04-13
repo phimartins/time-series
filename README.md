@@ -15,10 +15,10 @@ Sazonalidade: Padrões ou ciclos de comportamentos ao longo do tempo.
 Ruído: Variância nas observações que não podem ser explicadas pelo modelo.  
 
 ## Bibliotecas Utilizadas ao longo do estudo
-*Pandas - Para manipulação de dados
-*Scikit-learn - Para criar modelos de machine learning
-*Numpy - para operações matemáticas
-*Statsmodel - para análises estatísticas
++ Pandas para manipulação de dados
++ Scikit-learn para criar modelos de machine learning
++ Numpy para operações matemáticas
++ Statsmodel para análises estatísticas
 
 
 
